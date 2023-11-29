@@ -1,0 +1,84 @@
+body {
+    background-image: url('https://vasantkamal.com/wp-content/uploads/2018/05/toru-package-to-maldives-from-chennai.jpg');
+    background-repeat: no-repeat;
+    background-size:50px; 
+    
+}
+.HEADING{
+   
+
+    BORDER:NONE;
+    color: rgb(255, 255, 255);
+    padding: 30PX;
+    
+    font: size 50PX;;
+    transition:0.1s;
+    background-color: rgb(190, 121, 25)
+     font-family=Arial, Helvetica, sans-serif;
+
+}
+
+    button:hover{
+          background-color: rgb(73, 73, 63);
+    }
+.TOPIC{
+  
+    background: coloR SIZE 10PX ;
+    background-position-x: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size:xx-large;
+    color: black;
+    font-size:larger;
+    margin-left: 13cm;
+    margin-right: 50PX;  
+
+}
+
+.img{
+    font-size: xx-small;
+    image-orientation: 0deg;
+    
+    
+        width: 100px; 
+        height: auto; 
+        display: block; 
+        margin: 20px; 
+        background-size: cover; 
+        background-position-x: left;
+        background-repeat: no-repeat;
+    }
+    header  {
+        width: 100px; 
+        height: auto; 
+    }
+    form {
+        display:contents;
+        text-align: center;
+        border: 1px solid #ccc;
+        padding: 20px;
+        border-radius: 100px;
+        size-adjust:unset;
+    }
+
+    label {
+        display: block;
+        margin-bottom: 8px;
+    }
+
+   .one{
+    font-size: larger;
+
+   }
+   .ss{
+    margin-left: 13cm;
+    margin-right: 50PX;  
+
+   }
+   tr{
+      margin-left: 75%;
+
+   }
+   td:hover{
+    background-color: cadetblue;
+
+   }
